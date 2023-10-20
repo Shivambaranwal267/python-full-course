@@ -9,4 +9,4 @@ import random
 
 # print("perimeter of a circle --> ", (2 * (math.pi) * r))
 
-rint(round(random.random()* 10000 / 2))
+print(round(random.random()* 10000 / 2))
